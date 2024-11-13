@@ -205,3 +205,7 @@ http {
         }
 }
 ```
+[source for learn](https://www.youtube.com/watch?v=ofBFl4M4BFk)
+[free domain](https://freedns.afraid.org/)
+
+- follow inside [amazon web service EC2](/server.md) deployment
